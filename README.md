@@ -1,3 +1,6 @@
+> **Course & Semester:** <Reinforcement Learning, Semester X>
+
+## Overview
 A lightweight RL agent for a simplified poker environment (partial information).
 
 ## Topics Covered
